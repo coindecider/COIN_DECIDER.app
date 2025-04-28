@@ -40,4 +40,6 @@ i will try put a snippet of the swift code in there i will be called - ContentVi
 thats all i have for now - feel like we dont need anything else,
 but maybe we do im not sure - we will cross that bridge when we discover that bridge if there is a bridge we havnt discoverd yet.
 
+UPDATE# this is a proof of concept video https://youtu.be/g9ShW-a4LOI
+
 cheers !
