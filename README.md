@@ -35,7 +35,7 @@ anyways what else,
 o last thing the background is just simple red background - the hex code is #FF0021
 
 cool i think thats everything -
-i will try put a snippet of the swift code in there i will be called - COIN_FLIP_SCRIPT
+i will try put a snippet of the swift code in there i will be called - ContentView.swift
 
 thats all i have for now - feel like we dont need anything else,
 but maybe we do im not sure - we will cross that bridge when we discover that bridge if there is a bridge we havnt discoverd yet.
